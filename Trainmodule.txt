@@ -1,2 +1,8 @@
 scenario 1 book the ticket from chennai to delhi
 scenario 2 cancel the ticket from chennai to kanyakumari
+
+
+
+scenario 3  book room ticket in first class ac
+
+scenario 4   cancel the ticket in second class
