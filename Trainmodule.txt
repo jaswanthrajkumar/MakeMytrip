@@ -1,0 +1,2 @@
+scenario 1 book the ticket from chennai to delhi
+scenario 2 cancel the ticket from chennai to kanyakumari
