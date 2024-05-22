@@ -1,2 +1,6 @@
 scenario 1 book the ticket from chennai to delhi
 scenario 2 cancel the ticket from chennai to kanyakumari
+
+
+scenario 5   book the sleeper coach     
+scenario 6   cancel the normal coach
