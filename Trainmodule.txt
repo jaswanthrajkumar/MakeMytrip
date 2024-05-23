@@ -6,3 +6,6 @@ scenario 4   cancel the ticket in second class
 \\ by jaswanth
 scenario 5   book the sleeper coach     
 scenario 6   cancel the normal coach
+\\ gandhi
+scenario 7 book the upper breth
+scenario 8 cancel the lower breth
